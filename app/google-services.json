@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036325010086",
+    "project_id": "okoa-sem-5549e",
+    "storage_bucket": "okoa-sem-5549e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036325010086:android:56d5298371243060b95267",
+        "android_client_info": {
+          "package_name": "com.KUN.okoasem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj5Q8dOU0wQ9Cp8Vbq6ifjnD12M2hd61I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
